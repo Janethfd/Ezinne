@@ -1,26 +1,78 @@
-Hello there👋! I'm Ezinne, a versatile professional skilled in software development, data analysis, and project management. I excel in crafting scalable and efficient solutions. With a keen eye for detail and a relentless pursuit of excellence, I transform complex problems into elegant code and insightful data-driven strategies. My journey has equipped me with a deep understanding of various technologies and frameworks, enabling me to build seamless, secure systems while effectively managing projects and analyzing data to drive success.
+Hi there 👋, I'm Peace Ezinne Nnate
+🌟 Full-Stack Engineer | Technical Lead | Multi-Disciplinary Professional 🌟
+I am a highly analytical and results-driven professional specializing in complex systems architecture, quality assurance, and strategic data analysis. With a unique background spanning the entire software development lifecycle (SDLC), I excel at transforming business requirements into secure, scalable solutions—from the network layer up to the user interface.
 
+My core strength is bridging the gap between engineering execution, quality oversight, and project delivery, ensuring efficiency and excellence in every deployment.
 
-What I Do
-🌐 Software Development: Crafting responsive, user-friendly websites and applications with seamless front-end and back-end integration.
-📊 Data Analysis: Clean data, utilizing advanced analytics to extract insights, visualize data, inform decisions, and drive strategic improvements.
-📈 Project Management: Leading cross-functional teams to deliver projects on time and within budget, ensuring top-quality results.
-🎮 Game Testing: Conducting thorough testing to ensure games are bug-free, user-friendly, and meet high-quality standards.
+🎯 Core Focus Areas
+Role
 
+Focus
 
-My Tech Stacks
+Contribution
 
-Frontend Development: HTML, CSS, JavaScript, React JS
-Backend Development & Databases: PHP, SQL, Python (Django, Flask), Node.js, RESTful API Development
-Cloud Computing: AWS (Amazon Web Services), Google Cloud (GCP), Firebase
-Data Analysis & Visualization: Microsoft Excel, Power BI, Tableau, Python (Pandas, NumPy), 
-Tools & Practices: Git, GitHub, Remote Collaboration, Quality Assurance (QA), Trello, Jira, ClickUp
+💻 Full-Stack Engineer
 
-Cool Stuff
-Feel free to connect with me if you’re curious about my work or if we can collaborate on something exciting.
+Development & Architecture
 
+Crafting robust, efficient, and scalable web applications with seamless front-end (React/JS) and back-end (Python/PHP) integration.
+
+🔬 QA Engineer
+
+Quality & Validation
+
+Implementing advanced testing protocols, including automated and end-to-end (E2E) testing, to ensure reliability and minimize post-launch critical issues by over 65%.
+
+🔗 Network Engineer
+
+Connectivity & Security
+
+Designing, configuring, and troubleshooting network infrastructure (TCP/IP, Cloud VPCs) to guarantee application accessibility, performance, and security.
+
+📈 Data Analyst
+
+Insight & Strategy
+
+Cleaning and analyzing large datasets using Python (Pandas/NumPy) and Power BI/Tableau to visualize trends and inform strategic, data-driven decisions.
+
+✅ Project Manager (PM)
+
+Execution & Delivery
+
+Leading cross-functional teams using Agile/Scrum methodologies to manage scope, mitigate risks, and ensure projects are delivered on time and within budget.
+
+🛠️ My Tech Stack
+Category
+
+Technologies
+
+Frontend Engineering
+
+React JS • JavaScript (ES6+) • HTML5 • CSS3 • Figma • Canva
+
+Backend & Databases
+
+Python (Django, Flask) • Node.js • PHP • RESTful APIs • SQL • MySQL
+
+Cloud & DevOps
+
+AWS (EC2, S3, VPC) • Google Cloud (GCP) • Firebase • Git • GitHub
+
+Networking
+
+TCP/IP • Routing & Switching Concepts • Network Security • Cloud Networking
+
+QA & Project Mgmt.
+
+Automated Testing • E2E Testing • Jira • Trello • Agile/Scrum
+
+Data & Analytics
+
+Python (Pandas, NumPy) • Microsoft Excel • Power BI • Tableau
 
 📫 Let's Connect!
+I'm always open to collaborating on challenging projects or discussing the future of tech. Feel free to reach out!
 
-www.linkedin.com/in/janeth-nath-160124226 
-janethnath58@gmail.com
+LinkedIn: www.linkedin.com/in/ezinne-nnate
+
+Portfolio: https://www.ezinne.com
